@@ -1,0 +1,9 @@
+{
+    "searchApplicationID": {
+        "type": "TextField",
+        "props": {
+            "label": "Application ID",
+            "required": true
+        }
+    }
+}
